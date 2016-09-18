@@ -90,3 +90,6 @@ ENV/
 
 # mnist data
 Mnist_data
+
+# MacOS
+.DS_Store
